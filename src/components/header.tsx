@@ -11,7 +11,7 @@ function Header() {
             <Link href="/dashboard/Analytics">Analytics</Link>
             <Link href="/dashboard/settings">Settings</Link>
             <Link href="/dashboard/settings/Password">Password</Link>
-            <Link href="/dashboard/settings/Profile">Profile</Link>
+            <Link href="/dashboard/settings/Info">info</Link>
 
         </div>
     )
